@@ -26,18 +26,19 @@ String Handling (string.h)
 
 # 🏗 How to Run
 
-# Clone this repository:
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/your-username/ebook-store.git
+   cd ebook-store
 
-git clone https://github.com/your-username/ebook-store.git
-cd ebook-store
 
-Compile the program using GCC:
+2. Compile the program using GCC:
+   ```sh
+   gcc ebook_store.c -o ebook_store
 
-gcc ebook_store.c -o ebook_store
-
-Run the application:
-
-./ebook_store
+3. Run the application:
+   ```sh
+   ./ebook_store
 
 # 🎮 Usage Instructions
 
