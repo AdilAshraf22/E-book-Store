@@ -6,23 +6,23 @@ E-Book Store is a simple C-based console application that allows users to browse
 
 # 🚀 Features
 
-View a catalog of 50 best-selling e-books
+• View a catalog of 50 best-selling e-books
 
-Add books to a cart with real-time stock updates
+• Add books to a cart with real-time stock updates
 
-View selected books in the cart along with total cost
+• View selected books in the cart along with total cost
 
-Checkout and reset cart after purchase
+• Checkout and reset cart after purchase
 
-Prevents purchases of out-of-stock books
+• Prevents purchases of out-of-stock books
 
 # 🛠 Technologies Used
 
-C Programming Language
+• C Programming Language
 
-Standard Input/Output (stdio.h)
+• Standard Input/Output (stdio.h)
 
-String Handling (string.h)
+• String Handling (string.h)
 
 # 🏗 How to Run
 
@@ -42,17 +42,17 @@ String Handling (string.h)
 
 # 🎮 Usage Instructions
 
-Run the program and select an option from the menu.
+• Run the program and select an option from the menu.
 
-Browse e-books to view available titles and stock.
+• Browse e-books to view available titles and stock.
 
-Add to Cart by entering the book index.
+• Add to Cart by entering the book index.
 
-View Cart to check selected books and total price.
+• View Cart to check selected books and total price.
 
-Checkout to finalize the purchase and reset the cart.
+• Checkout to finalize the purchase and reset the cart.
 
-Exit the store when done.
+• Exit the store when done.
 
 # 👨‍💻 Contributing
 
